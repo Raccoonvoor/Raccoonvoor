@@ -1,6 +1,9 @@
 Olá! sou o Thiago 🧑‍💻
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+<p>🎓 <em> Estudante de Análise e Desenvolvimento de Sistemas no <a href="https://www.uniceub.br/" target="_blank">Centro Universitário de Brasília.</a>.</em></p>
+
+##
+
 💻 Desenvolvedor web e entusiasta de software livre  
 💼 Em busca de projetos desafiadores e oportunidades de crescimento
 
