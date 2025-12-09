@@ -4,7 +4,7 @@ Olá! sou o Thiago 🧑‍💻
 
 ##
 
-💻 Desenvolvedor web e entusiasta de software livre  
+💻 Desenvolvedor back-end e entusiasta de software livre  
 💼 Em busca de projetos desafiadores e oportunidades de crescimento
 
 ##
