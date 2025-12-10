@@ -11,7 +11,6 @@ Olá! sou o Thiago 🧑‍💻
 
 <div>
 <a href="https://github.com/Raccoonvoor">
-<img loading="lazy" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raccoonvoor&theme=github_dark"/>
 </div>
 
 ### 🧰 Linguagens e ferramentas
