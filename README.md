@@ -25,9 +25,5 @@ Olá! sou o Thiago 🧑‍💻
   <img align="center" alt="JavaScript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="SQL" height="30" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />  
-  
-### 📚 Atualmente estudando
-
-### 🎯 Meus Objetivos
 </div>
 
