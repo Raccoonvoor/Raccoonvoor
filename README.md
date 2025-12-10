@@ -27,3 +27,4 @@ Olá! sou o Thiago 🧑‍💻
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />  
 </div>
 
+![warliege-pixel](https://github.com/user-attachments/assets/d4e03397-52e6-4b76-8050-ade8ff027b35)
